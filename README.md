@@ -25,7 +25,7 @@ The choice of strategy depends on the specific circumstances, technical capabili
 
 
 
-2. Our client has around 10k linkedin people profiles, he wants to know the estimated income range of these profiles. Suggest ways on how to do this?
+## 2. Our client has around 10k linkedin people profiles, he wants to know the estimated income range of these profiles. Suggest ways on how to do this?
 
 Answer. Certainly! To estimate the income range of our client's 10,000 LinkedIn profiles, we can consider the following approaches:
 
@@ -44,7 +44,7 @@ f. External Datasets: Consider using external datasets, such as government censu
 
 
 
-3. We have a list of 1L company names, need to find linkedin company links of these profiles, how to go about this?
+## 3. We have a list of 1L company names, need to find linkedin company links of these profiles, how to go about this?
 
 Answer. To find LinkedIn company pages for a list of 100,000 company names, you can follow these steps:
 
@@ -67,7 +67,7 @@ Once you have collected the LinkedIn company page links for your list of company
 
 
 
-4. How to identify list of companies whose tech stack is built on Python. Give names of 5 companies if possible, by your suggested approach
+## 4. How to identify list of companies whose tech stack is built on Python. Give names of 5 companies if possible, by your suggested approach
 
 Answer. 
 To identify a list of companies whose tech stack is built on Python, you can employ the following approach:
@@ -98,7 +98,7 @@ e. Netflix: Netflix uses Python for a range of purposes, including data analysis
 
 
 
-5. Need to find an API, through which we can send linkedin messages to other linkedin users
+## 5. Need to find an API, through which we can send linkedin messages to other linkedin users
 
 Answer. To send LinkedIn messages to other LinkedIn users programmatically, you would typically need to use the LinkedIn Messaging API.
 
